@@ -2,11 +2,10 @@
 AI-supported live coding and IoT learning module integrated with Moodle LMS
 
 **Archiceture**
-
-<img src="Documentation/Architecture.png" alt="Ilustrasi Irigasi" width="600"/>
-
 The system integrates an LMS (Moodle), IoT devices, and an AI feedback module through a secure VPN connection.
 The diagram below illustrates the architecture of the AI-supported live coding and IoT learning environment.
+
+<img src="Documentation/Architecture.png" alt="Ilustrasi Irigasi" width="600"/>
 
 **Description**
 
