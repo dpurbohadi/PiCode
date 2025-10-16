@@ -26,7 +26,7 @@ Hosts the PiCode Lab live coding environment, where students can write and execu
 
 **Programming Tools**
 
-Embedded within the LMS, these tools allow students to develop control scripts, run code, and observe feedback in real time. The module logs each interaction for later analysis. You can download the SCORM module from the CourseLab directory before importing it into your LMS. For detailed setup instructions, please read README.pdf.
+Embedded within the LMS, the **LMS-based editor** allows students to develop control scripts, run code, and observe feedback in real time. The module logs each interaction for later analysis. You can download the SCORM module from the CourseLab directory before importing it into your LMS. For detailed setup instructions, please read README.pdf.
 
 **Data Logger Server (Optional)**
 
