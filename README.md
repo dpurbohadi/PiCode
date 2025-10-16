@@ -25,9 +25,10 @@ Acts as the communication backbone, linking the LMS, IoT network, and AI feedbac
 Hosts the PiCode Lab live coding environment, where students can write and execute code directly from the browser. The LMS manages user sessions, logs, and integration with SCORM packages.
 
 **Programming Tools**
-Embedded within the LMS, these tools allow students to develop control scripts, run code, and observe feedback in real time. The module logs each interaction for later analysis.
 
-**Data Logger Server**
+Embedded within the LMS, these tools allow students to develop control scripts, run code, and observe feedback in real time. The module logs each interaction for later analysis. You can download the SCORM module from the CourseLab directory before importing it into your LMS. For detailed setup instructions, please read README.pdf.
+
+**Data Logger Server (Optional)**
 
 Receives and stores sensor readings from IoT devices. It also forwards relevant data to the LMS and supports synchronization for monitoring and evaluation.
 
