@@ -1,4 +1,4 @@
-# picode-lms
+# PiCode 
 AI-supported live coding and IoT learning module integrated with Moodle LMS.
 
 This project is part of a research initiative focused on developing an AI-supported live coding and IoT learning module integrated with Moodle LMS. The aim of the research is to enhance students’ computational thinking and problem-solving skills through intelligent learning environments. By integrating artificial intelligence, live coding, and IoT simulations into Moodle, this project investigates how real-time AI feedback and embedded IoT interaction can improve programming comprehension and practical engineering learning outcomes. The system also supports performance analytics to help educators evaluate student progress based on authentic coding and device-control activities.
