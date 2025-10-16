@@ -1,5 +1,7 @@
 # picode-lms
-AI-supported live coding and IoT learning module integrated with Moodle LMS
+AI-supported live coding and IoT learning module integrated with Moodle LMS.
+
+This project is part of a research initiative focused on developing an AI-supported live coding and IoT learning module integrated with Moodle LMS. The aim of the research is to enhance students’ computational thinking and problem-solving skills through intelligent learning environments. By integrating artificial intelligence, live coding, and IoT simulations into Moodle, this project investigates how real-time AI feedback and embedded IoT interaction can improve programming comprehension and practical engineering learning outcomes. The system also supports performance analytics to help educators evaluate student progress based on authentic coding and device-control activities.
 
 **Archiceture**
 
@@ -10,7 +12,7 @@ The diagram below illustrates the architecture of the AI-supported live coding a
 
 **Description**
 
-Greenhouse IoT Devices include IoT sensors (e.g., temperature, humidity, and light sensors) and actuators (e.g., servo-based irrigation systems) installed in a greenhouse. These devices collect environmental data and execute commands received from the LMS.
+The AI-supported live coding and IoT learning module integrated with Moodle LMS is an interactive learning environment that combines artificial intelligence, real-time programming, and Internet of Things (IoT) simulations. Within Moodle, the module enables students to write, execute, and test code directly in the browser through an embedded LMS-based editor. AI assistance provides instant code feedback, suggestions, and explanations to help learners understand programming logic and IoT system behavior. The module connects to simulated or real IoT devices, allowing learners to observe sensor data, control actuators, and analyze system responses in real time. All student interactions are logged for performance tracking and later evaluation by instructors.
 
 **TailScale VPN**
 
