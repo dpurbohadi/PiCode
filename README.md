@@ -14,7 +14,7 @@ The diagram below illustrates the architecture of the AI-supported live coding a
 
 The AI-supported live coding and IoT learning module integrated with Moodle LMS is an interactive learning environment that combines artificial intelligence, real-time programming, and Internet of Things (IoT) simulations. Within Moodle, the module enables students to write, execute, and test code directly in the browser through an embedded LMS-based editor. AI assistance provides instant code feedback, suggestions, and explanations to help learners understand programming logic and IoT system behavior. The module connects to simulated or real IoT devices, allowing learners to observe sensor data, control actuators, and analyze system responses in real time. All student interactions are logged for performance tracking and later evaluation by instructors.
 
-**TailScale VPN**
+[**TailScale VPN**](https://tailscale.com)
 
 Provides a secure, encrypted network that connects all IoT devices with the LMS and servers through the internet. This ensures real-time communication and remote access while maintaining data privacy.
 
